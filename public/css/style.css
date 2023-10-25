@@ -1,0 +1,82 @@
+h1{
+    border: solid black 1px;
+    background-color: green;
+}
+#myTable thead tr{
+    border-bottom: solid black 1px;
+}
+#myTable thead tr th{
+    padding: 1rem;
+}
+#myTable tbody tr td{
+    padding: 1rem;
+
+ }
+ #myTable tbody tr{
+    border-bottom: solid black 1px;
+    
+ }
+
+ /* styles.css */
+
+/* Styling for the heading */
+h2 {
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+}
+
+/* Styling for the form */
+form {
+    font-family: Arial, sans-serif;
+    width: 60%;
+    margin: 0 auto;
+}
+
+/* Style the labels */
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Style the input fields */
+input[type="text"],
+input[type="number"],
+input[type="date"],
+input[type="email"],
+input[type="tel"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Style the checkboxes and radio buttons */
+input[type="checkbox"],
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+/* Style the submit button */
+button{
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1rem;
+}
+input[type="submit"] {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 1rem;
+}
